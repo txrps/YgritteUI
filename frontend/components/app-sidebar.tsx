@@ -52,14 +52,14 @@ const data = {
   ],
   navMain: [
     {
-      title: "Playground",
+      title: "Components",
       url: "#",
       icon: SquareTerminal,
       isActive: true,
       items: [
         {
-          title: "History",
-          url: "#",
+          title: "Accordion",
+          url: "/components/accordion",
         },
         {
           title: "Starred",
